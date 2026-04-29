@@ -18,7 +18,7 @@
 
 ## 🧬 About Me
 
-<img align="right" alt="Coding" width="320" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" />
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```python
 class Mortada:
@@ -92,20 +92,20 @@ class Mortada:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-statsss-sigma.vercel.app/api?username=mortadacherrak&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mortadacherrak&theme=radical&hide_border=true&background=0d0221&ring=c084fc&fire=818cf8&currStreakLabel=c084fc" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mortadacherrak&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0" />
+<img width="49%" src="https://streak-stats.demolab.com?user=mortadacherrak&theme=radical&hide_border=true&background=0d0221&ring=c084fc&fire=818cf8&currStreakLabel=c084fc" />
 
-<img width="49%" src="https://github-readme-statsss-sigma.vercel.app/api/top-langs?username=mortadacherrak&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=e2e8f0" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mortadacherrak&theme=radical" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mortadacherrak&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=e2e8f0" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mortadacherrak&theme=tokyo-night&hide_border=true&bg_color=0d0221&color=c084fc&line=818cf8&point=c084fc" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🌐 Activity Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mortadacherrak/mortadacherrak/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mortadacherrak&theme=tokyo-night&hide_border=true&bg_color=0d0221&color=c084fc&line=818cf8&point=ffffff&area=true" alt="Contribution Graph" />
 </div>
 
 ---
